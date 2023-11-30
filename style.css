@@ -1,0 +1,36 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+   
+}
+
+.contDiv{
+    height: 500px;
+    background-color: rgb(173, 183, 183);
+}
+
+#titulo{
+    text-align: center;
+    font-size: 30;
+}
+
+.cont {
+    position: relative;
+}
+
+.cont {
+    display: flex; 
+}
+
+.contDiv {
+    width: 49%;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+.carro{
+    width: 500px;
+    height: 400px;
+    border-radius: 10%;
+}
